@@ -1,0 +1,25 @@
+{
+  "name": "ruta-31-badges",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dynamic Shields.io badges and status endpoints for the Ruta 31 ERP ecosystem",
+  "type": "module",
+  "scripts": {
+    "validate": "node tools/validate-badges.mjs",
+    "sync": "node tools/sync-workspace.mjs",
+    "collect": "node tools/collect-workspace-badges.mjs",
+    "format": "prettier --write \"**/*.{json,md,yml,mjs}\""
+  },
+  "keywords": [
+    "ruta-31",
+    "badges",
+    "shields-io",
+    "erp",
+    "automotive"
+  ],
+  "author": "Remaveca C.A.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24.0.0"
+  }
+}
