@@ -52,14 +52,14 @@ Cada repositorio del workspace cuenta con su propio directorio de badges para to
 
 | Repositorio | Carpeta de Badges | Total Badges | Ejemplo de Badge |
 | :--- | :--- | :---: | :--- |
-| **ruta-31-api** | [`ruta-31-api/`](ruta-31-api/) | 12 | ![Spring Boot](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-api/spring-boot.json) |
+| **ruta-31-api** | [`ruta-31-api/`](ruta-31-api/) | 18 | ![Spring Boot](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-api/spring-boot.json) |
 | **ruta-31-app-shell** | [`ruta-31-app-shell/`](ruta-31-app-shell/) | 35 | ![Angular Core](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-app-shell/angular__core.json) |
 | **ruta-31-catalog** | [`ruta-31-catalog/`](ruta-31-catalog/) | 38 | ![Native Federation](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-catalog/angular-architects__native-federation.json) |
 | **ruta-31-inventory** | [`ruta-31-inventory/`](ruta-31-inventory/) | 38 | ![Tailwind CSS](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-inventory/tailwindcss.json) |
-| **ruta-31-security** | [`ruta-31-security/`](ruta-31-security/) | 38 | ![NgRx Signals](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-security/ngrx__signals.json) |
-| **ruta-31-ui-libraries** | [`ruta-31-ui-libraries/`](ruta-31-ui-libraries/) | 26 | ![Material](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-ui-libraries/angular__material.json) |
+| **ruta-31-security** | [`ruta-31-security/`](ruta-31-security/) | 38 | ![Angular Material](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-security/angular__material.json) |
+| **ruta-31-ui-libraries** | [`ruta-31-ui-libraries/`](ruta-31-ui-libraries/) | 26 | ![ng-packagr](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-ui-libraries/ng-packagr.json) |
 | **ruta-31-ui-starter** | [`ruta-31-ui-starter/`](ruta-31-ui-starter/) | 38 | ![Vitest](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-ui-starter/vitest.json) |
-| **ruta-31-mcp-server** | [`ruta-31-mcp-server/`](ruta-31-mcp-server/) | 22 | ![MCP SDK](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-mcp-server/modelcontextprotocol__sdk.json) |
+| **ruta-31-mcp-server** | [`ruta-31-mcp-server/`](ruta-31-mcp-server/) | 22 | ![Zod](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-mcp-server/zod.json) |
 | **ruta-31-docs** | [`ruta-31-docs/`](ruta-31-docs/) | 2 | ![Docs Engine](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-docs/docs-engine.json) |
 | **ruta-31-master-plan** | [`ruta-31-master-plan/`](ruta-31-master-plan/) | 3 | ![31 Modules](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/ruta-31-master-plan/modules-spec.json) |
 

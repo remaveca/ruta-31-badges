@@ -106,5 +106,12 @@
   "target-platform": "8eadb9",
   "modules-spec": "858ebf",
   "strategic-phases": "b98508",
-  "adr-records": "ed5c84"
+  "adr-records": "ed5c84",
+  "spring-modulith-starter-core": "8c7820",
+  "spring-modulith-starter-jpa": "ca06b3",
+  "spring-modulith-events-api": "03615b",
+  "bcprov-jdk18on": "0ee111",
+  "springdoc-openapi-starter-webmvc-ui": "118c1d",
+  "spring-modulith-starter-test": "84e32d",
+  "spring-modulith-bom": "5459ab"
 }

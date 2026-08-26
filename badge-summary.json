@@ -8,15 +8,21 @@
       "jspecify",
       "jjwt",
       "springdoc-openapi",
-      "spring-boot-starter-web",
+      "spring-modulith-starter-core",
+      "spring-modulith-starter-jpa",
+      "spring-modulith-events-api",
+      "postgresql",
+      "flyway",
+      "bcprov-jdk18on",
       "jjwt-api",
       "jjwt-impl",
       "jjwt-jackson",
-      "commons-lang3",
-      "spring-boot-starter-test"
+      "springdoc-openapi-starter-webmvc-ui",
+      "spring-modulith-starter-test",
+      "spring-modulith-bom"
     ],
-    "total": 12,
-    "timestamp": "2026-08-26T11:38:38.008Z"
+    "total": 18,
+    "timestamp": "2026-08-26T11:51:58.709Z"
   },
   "ruta-31-app-shell": {
     "added": [],
@@ -58,7 +64,7 @@
       "vitest"
     ],
     "total": 35,
-    "timestamp": "2026-08-26T11:38:38.058Z"
+    "timestamp": "2026-08-26T11:51:58.742Z"
   },
   "ruta-31-catalog": {
     "added": [],
@@ -103,7 +109,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-26T11:38:38.095Z"
+    "timestamp": "2026-08-26T11:51:58.765Z"
   },
   "ruta-31-inventory": {
     "added": [],
@@ -148,7 +154,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-26T11:38:38.124Z"
+    "timestamp": "2026-08-26T11:51:58.864Z"
   },
   "ruta-31-security": {
     "added": [],
@@ -193,7 +199,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-26T11:38:38.213Z"
+    "timestamp": "2026-08-26T11:51:58.895Z"
   },
   "ruta-31-ui-libraries": {
     "added": [],
@@ -226,7 +232,7 @@
       "typescript"
     ],
     "total": 26,
-    "timestamp": "2026-08-26T11:38:38.243Z"
+    "timestamp": "2026-08-26T11:51:58.981Z"
   },
   "ruta-31-ui-starter": {
     "added": [],
@@ -271,7 +277,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-26T11:38:38.276Z"
+    "timestamp": "2026-08-26T11:51:59.051Z"
   },
   "ruta-31-mcp-server": {
     "added": [],
@@ -300,7 +306,7 @@
       "vsce"
     ],
     "total": 22,
-    "timestamp": "2026-08-26T11:38:38.288Z"
+    "timestamp": "2026-08-26T11:51:59.081Z"
   },
   "ruta-31-docs": {
     "added": [],
@@ -309,7 +315,7 @@
       "target-platform"
     ],
     "total": 2,
-    "timestamp": "2026-08-26T11:38:38.290Z"
+    "timestamp": "2026-08-26T11:51:59.083Z"
   },
   "ruta-31-master-plan": {
     "added": [],
@@ -319,12 +325,12 @@
       "adr-records"
     ],
     "total": 3,
-    "timestamp": "2026-08-26T11:38:38.293Z"
+    "timestamp": "2026-08-26T11:51:59.087Z"
   },
   "ruta-31-badges": {
     "added": [],
     "updated": [],
     "total": 0,
-    "timestamp": "2026-08-26T11:38:38.293Z"
+    "timestamp": "2026-08-26T11:51:59.087Z"
   }
 }

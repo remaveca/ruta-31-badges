@@ -202,11 +202,16 @@ for (const repo of workspaceRepos) {
         }
 
         // Search explicit dependencies
-        const depRegex = /<dependency>[\s\S]*?<groupId>([^<]+)<\/groupId>[\s\S]*?<artifactId>([^<]+)<\/artifactId>(?:[\s\S]*?<version>([^<]+)<\/version>)?[\s\S]*?<\/dependency>/g;
-        for (const match of pom.matchAll(depRegex)) {
-          const groupId = match[1].trim();
-          const artifactId = match[2].trim();
-          let ver = match[3] ? match[3].trim() : '';
+        const depBlockRegex = /<dependency>([\s\S]*?)<\/dependency>/g;
+        for (const match of pom.matchAll(depBlockRegex)) {
+          const block = match[1];
+          const gMatch = block.match(/<groupId>([^<]+)<\/groupId>/);
+          const aMatch = block.match(/<artifactId>([^<]+)<\/artifactId>/);
+          const vMatch = block.match(/<version>([^<]+)<\/version>/);
+          if (!aMatch) continue;
+          const groupId = gMatch ? gMatch[1].trim() : '';
+          const artifactId = aMatch[1].trim();
+          let ver = vMatch ? vMatch[1].trim() : '';
 
           if (ver.startsWith('${') && ver.endsWith('}')) {
             const propKey = ver.slice(2, -1);
