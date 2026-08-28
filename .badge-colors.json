@@ -114,5 +114,6 @@
   "springdoc-openapi-starter-webmvc-ui": "118c1d",
   "spring-modulith-starter-test": "84e32d",
   "spring-modulith-bom": "5459ab",
-  "spring-cloud-dependencies": "986eb1"
+  "spring-cloud-dependencies": "986eb1",
+  "spring-modulith-starter-jdbc": "8974c4"
 }
