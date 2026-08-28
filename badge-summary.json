@@ -1,8 +1,6 @@
 {
   "ruta-31-api": {
-    "added": [
-      "spring-modulith-starter-jdbc"
-    ],
+    "added": [],
     "updated": [
       "spring-boot",
       "java",
@@ -11,6 +9,7 @@
       "jjwt",
       "springdoc-openapi",
       "spring-modulith-starter-core",
+      "spring-modulith-starter-jdbc",
       "spring-modulith-events-api",
       "postgresql",
       "flyway",
@@ -24,10 +23,21 @@
       "spring-cloud-dependencies"
     ],
     "total": 19,
-    "timestamp": "2026-08-28T06:35:07.601Z"
+    "timestamp": "2026-08-28T07:06:23.938Z"
   },
   "ruta-31-app-shell": {
-    "added": [],
+    "added": [
+      "@angular-eslint/builder",
+      "@commitlint/cli",
+      "@commitlint/config-conventional",
+      "@eslint/js",
+      "angular-eslint",
+      "eslint",
+      "eslint-config-prettier",
+      "eslint-plugin-prettier",
+      "husky",
+      "typescript-eslint"
+    ],
     "updated": [
       "@angular-architects/native-federation",
       "@angular/animations",
@@ -65,8 +75,8 @@
       "typescript",
       "vitest"
     ],
-    "total": 35,
-    "timestamp": "2026-08-28T06:35:07.726Z"
+    "total": 45,
+    "timestamp": "2026-08-28T07:06:24.154Z"
   },
   "ruta-31-catalog": {
     "added": [],
@@ -111,7 +121,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-28T06:35:07.802Z"
+    "timestamp": "2026-08-28T07:06:24.234Z"
   },
   "ruta-31-inventory": {
     "added": [],
@@ -156,7 +166,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-28T06:35:07.844Z"
+    "timestamp": "2026-08-28T07:06:24.292Z"
   },
   "ruta-31-security": {
     "added": [],
@@ -201,7 +211,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-28T06:35:07.909Z"
+    "timestamp": "2026-08-28T07:06:24.329Z"
   },
   "ruta-31-ui-libraries": {
     "added": [],
@@ -234,7 +244,7 @@
       "typescript"
     ],
     "total": 26,
-    "timestamp": "2026-08-28T06:35:07.959Z"
+    "timestamp": "2026-08-28T07:06:24.797Z"
   },
   "ruta-31-ui-starter": {
     "added": [],
@@ -279,7 +289,7 @@
       "vitest"
     ],
     "total": 38,
-    "timestamp": "2026-08-28T06:35:08.043Z"
+    "timestamp": "2026-08-28T07:06:24.957Z"
   },
   "ruta-31-mcp-server": {
     "added": [],
@@ -308,7 +318,7 @@
       "vsce"
     ],
     "total": 22,
-    "timestamp": "2026-08-28T06:35:08.062Z"
+    "timestamp": "2026-08-28T07:06:25.025Z"
   },
   "ruta-31-docs": {
     "added": [],
@@ -317,7 +327,7 @@
       "target-platform"
     ],
     "total": 2,
-    "timestamp": "2026-08-28T06:35:08.065Z"
+    "timestamp": "2026-08-28T07:06:25.027Z"
   },
   "ruta-31-master-plan": {
     "added": [],
@@ -327,12 +337,12 @@
       "adr-records"
     ],
     "total": 3,
-    "timestamp": "2026-08-28T06:35:08.067Z"
+    "timestamp": "2026-08-28T07:06:25.029Z"
   },
   "ruta-31-badges": {
     "added": [],
     "updated": [],
     "total": 0,
-    "timestamp": "2026-08-28T06:35:08.068Z"
+    "timestamp": "2026-08-28T07:06:25.030Z"
   }
 }
