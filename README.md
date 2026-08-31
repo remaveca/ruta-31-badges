@@ -1,9 +1,10 @@
 # Ruta 31 Badges
+*Plataforma Tecnológica de Gestión Automotriz*
 
 [![Ruta 31 Badges](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/release/ruta-31-badges.json)](https://github.com/remaveca/ruta-31-badges)
 [![Build](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/remaveca/ruta-31-badges/main/build/badges.json)](https://github.com/remaveca/ruta-31-badges/actions)
 
-Repositorio central de **badges dinámicos, inventario de dependencias e indicadores de estado** para todo el ecosistema ERP vertical de **Ruta 31** — especializado en el sector autopartes en Venezuela.
+Repositorio central de **badges dinámicos, inventario de dependencias e indicadores de estado** para **Ruta 31** (*Plataforma Tecnológica de Gestión Automotriz*).
 
 ---
 
@@ -82,3 +83,7 @@ Cada repositorio del workspace cuenta con su propio directorio de badges para to
   ```bash
   pnpm run validate
   ```
+
+---
+
+*Ruta 31 — Hacia el control de tu negocio.*
