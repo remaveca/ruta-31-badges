@@ -23,7 +23,7 @@
       "spring-cloud-dependencies"
     ],
     "total": 19,
-    "timestamp": "2026-09-01T13:26:41.381Z"
+    "timestamp": "2026-09-03T13:46:05.116Z"
   },
   "ruta-31-app-shell": {
     "added": [],
@@ -75,7 +75,7 @@
       "vitest"
     ],
     "total": 45,
-    "timestamp": "2026-09-01T13:26:41.814Z"
+    "timestamp": "2026-09-03T13:46:05.211Z"
   },
   "ruta-31-catalog": {
     "added": [],
@@ -122,7 +122,7 @@
       "vitest"
     ],
     "total": 40,
-    "timestamp": "2026-09-01T13:26:41.911Z"
+    "timestamp": "2026-09-03T13:46:05.266Z"
   },
   "ruta-31-inventory": {
     "added": [],
@@ -169,7 +169,7 @@
       "vitest"
     ],
     "total": 40,
-    "timestamp": "2026-09-01T13:26:41.997Z"
+    "timestamp": "2026-09-03T13:46:05.374Z"
   },
   "ruta-31-security": {
     "added": [],
@@ -216,7 +216,7 @@
       "vitest"
     ],
     "total": 40,
-    "timestamp": "2026-09-01T13:26:42.067Z"
+    "timestamp": "2026-09-03T13:46:05.447Z"
   },
   "ruta-31-ui-libraries": {
     "added": [],
@@ -249,10 +249,12 @@
       "typescript"
     ],
     "total": 26,
-    "timestamp": "2026-09-01T13:26:42.237Z"
+    "timestamp": "2026-09-03T13:46:05.536Z"
   },
   "ruta-31-ui-starter": {
-    "added": [],
+    "added": [
+      "@ngrx/signals"
+    ],
     "updated": [
       "@angular/cdk",
       "@angular/common",
@@ -293,8 +295,8 @@
       "typescript-eslint",
       "vitest"
     ],
-    "total": 38,
-    "timestamp": "2026-09-01T13:26:42.332Z"
+    "total": 39,
+    "timestamp": "2026-09-03T13:46:05.605Z"
   },
   "ruta-31-mcp-server": {
     "added": [],
@@ -323,7 +325,7 @@
       "vsce"
     ],
     "total": 22,
-    "timestamp": "2026-09-01T13:26:42.352Z"
+    "timestamp": "2026-09-03T13:46:05.700Z"
   },
   "ruta-31-docs": {
     "added": [],
@@ -332,7 +334,7 @@
       "target-platform"
     ],
     "total": 2,
-    "timestamp": "2026-09-01T13:26:42.360Z"
+    "timestamp": "2026-09-03T13:46:05.705Z"
   },
   "ruta-31-master-plan": {
     "added": [],
@@ -342,12 +344,12 @@
       "adr-records"
     ],
     "total": 3,
-    "timestamp": "2026-09-01T13:26:42.366Z"
+    "timestamp": "2026-09-03T13:46:05.713Z"
   },
   "ruta-31-badges": {
     "added": [],
     "updated": [],
     "total": 0,
-    "timestamp": "2026-09-01T13:26:42.366Z"
+    "timestamp": "2026-09-03T13:46:05.713Z"
   }
 }
