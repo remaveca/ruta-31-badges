@@ -219,7 +219,7 @@ for (const repo of workspaceRepos) {
           }
 
           if (artifactId === 'postgresql') {
-            collectedDeps['postgresql'] = '18';
+            collectedDeps['postgresql'] = '17';
           } else if (artifactId.startsWith('flyway')) {
             collectedDeps['flyway'] = '10.x';
           } else if (artifactId.startsWith('spring-modulith')) {
